@@ -1,0 +1,11 @@
+{
+  "name": "@genbreedai/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Fase 1 bloqueada: aguardando APROVADO no gate da Fase 0 (docs/audit/fase0-audit.md)'",
+    "build": "echo 'Fase 1 bloqueada'",
+    "typecheck": "echo 'skip'",
+    "lint": "echo 'skip'"
+  }
+}
